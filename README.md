@@ -8,7 +8,7 @@
 
 - 🌱 Aprendiendo ReactJS... :monocle_face:
 - :writing_hand:  Mi afición es el desarrollo web :computer:
-- 🥅 Para 2021 busco tener más conocimentos sobre Desarrollo Web más avanzados.
+- 🥅 Para 2022 busco tener más conocimentos sobre Desarrollo Web más avanzados.
 - ⚡ Entre mis aficiones se encuentra jugar videojuegos y ver deportes :video_game:
 
 ### Mis redes y páginas:
