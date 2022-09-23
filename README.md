@@ -32,7 +32,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" >
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" >
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" >
-<img align="left" alt="Jest" width="26px" src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" >
+<img align="left" alt="Jest" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jest.svg" >
 
 
 
