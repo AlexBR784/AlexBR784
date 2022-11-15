@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/badge/AlexBR784-UP-brightgreen)](http://portfolio-alexbr.herokuapp.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alexbr784?style=social)](https://twitter.com/intent/user?screen_name=alexbr784)
 
-## Actualmente soy estudiante de Ingeniería Multimedia
+## Ingeniero Multimedia
 
 
 - 🌱 Aprendiendo ReactJS... :monocle_face:
 - :writing_hand:  Mi afición es el desarrollo web :computer:
-- 🥅 Para 2022 busco tener más conocimentos sobre Desarrollo Web más avanzados.
+- 🥅 Busco tener más conocimentos sobre Desarrollo Web más avanzados.
 - ⚡ Entre mis aficiones se encuentra jugar videojuegos y ver deportes :video_game:
 
 ### Mis redes y páginas:
