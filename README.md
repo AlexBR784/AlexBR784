@@ -1,6 +1,6 @@
 ### ¡Hola!, Soy [AlexBR784][website] 👋
 
-[![Website](https://img.shields.io/badge/AlexBR784-UP-brightgreen)](http://portfolio-alexbr.herokuapp.com/)
+[![Website](https://img.shields.io/badge/AlexBR784-UP-brightgreen)](https://alexbr784.github.io/personal-portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alexbr784?style=social)](https://twitter.com/intent/user?screen_name=alexbr784)
 
 ## Ingeniero Multimedia
