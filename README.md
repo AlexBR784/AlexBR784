@@ -38,7 +38,7 @@
 
 
 
-[website]: https://alejandro-bernardo-app.herokuapp.com/
+[website]: https://alexbr784.github.io/personal-portfolio/
 [twitter]: https://twitter.com/alexbr784
 [youtube]: https://www.youtube.com/channel/UCokzYVmGFZrTU7oaKVE_hpA
 [instagram]: https://www.instagram.com/alexbr_784/
