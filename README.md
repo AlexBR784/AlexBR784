@@ -6,17 +6,16 @@
 ## Ingeniero Multimedia
 
 
-- 🌱 Aprendiendo ReactJS... :monocle_face:
+- 🌱 Aprendizaje constante... :monocle_face:
 - :writing_hand:  Mi afición es el desarrollo web :computer:
-- 🥅 Busco tener más conocimentos sobre Desarrollo Web más avanzados.
-- ⚡ Entre mis aficiones se encuentra jugar videojuegos y ver deportes :video_game:
+- 🥅 Busco tener más conocimentos sobre las nuevas tecnologías.
 
 ### Mis redes y páginas:
 
 [<img align="left" alt="portfolio-alexbr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="youTube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <br />
 
@@ -41,4 +40,4 @@
 [website]: https://alexbr784.github.io/personal-portfolio/
 [twitter]: https://twitter.com/alexbr784
 [youtube]: https://www.youtube.com/channel/UCokzYVmGFZrTU7oaKVE_hpA
-[instagram]: https://www.instagram.com/alexbr_784/
+[linkedin]: https://www.instagram.com/alexbr_784/](https://www.linkedin.com/in/alejandro-bernardo-rup%C3%A9rez-810905227/
