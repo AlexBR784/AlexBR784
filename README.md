@@ -3,12 +3,23 @@
 [![Website](https://img.shields.io/badge/AlexBR784-UP-brightgreen)](https://alexbr784.github.io/personal-portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alexbr784?style=social)](https://twitter.com/intent/user?screen_name=alexbr784)
 
-## Ingeniero Multimedia
+## ¿Quién soy?
+Soy un Ingeniero Multimedia graduado en la Universidad de Valencia.
 
+Si me tuviera que definir en 5 puntos sería:
 
-- 🌱 Aprendizaje constante... :monocle_face:
-- :writing_hand:  Mi afición es el desarrollo web :computer:
-- 🥅 Busco tener más conocimentos sobre las nuevas tecnologías.
+- 🌱 Aprendiz constante... :monocle_face:
+- :writing_hand:  Mi afición es el desarrollo de software. :computer:
+- 🚀 Me gusta estar siempre atento de las nuevas tecnologías.
+- 👥 Capacidad para el trabajo en equipo.
+- 🔄 Habilidad para adaptarse. 
+
+## Certificaciones y cursos
+<img align="center" alt="info" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/2048px-Logo_informations.svg.png" /> Actualmente poseo 3 certificaciones en Salesforce: Associate, Administrator y OmniStudio Developer.
+<br />
+(Aunque con vistas a obtener más certificaciones).
+<br />
+<img align="center" alt="info" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/2048px-Logo_informations.svg.png" /> También he realizado cursos de React y desarrollo web.
 
 ### Mis redes y páginas:
 
@@ -33,6 +44,9 @@
 <img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_sass.svg" >
 <img align="left" alt="Jest" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jest.svg" >
 <img align="left" alt="TailWind" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_tailwind.svg" >
+<img align="left" alt="Salesforce" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" >
+
+
 
 
 
@@ -40,4 +54,4 @@
 [website]: https://alexbr784.github.io/personal-portfolio/
 [twitter]: https://twitter.com/alexbr784
 [youtube]: https://www.youtube.com/channel/UCokzYVmGFZrTU7oaKVE_hpA
-[linkedin]: https://www.instagram.com/alexbr_784/](https://www.linkedin.com/in/alejandro-bernardo-rup%C3%A9rez-810905227/
+[linkedin]: https://www.linkedin.com/in/alejandro-bernardo-rup%C3%A9rez-810905227/
