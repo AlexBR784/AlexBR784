@@ -15,7 +15,7 @@ Si me tuviera que definir en 5 puntos sería:
 - 🔄 Habilidad para adaptarse. 
 
 ## Certificaciones y cursos
-<img align="center" alt="info" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/2048px-Logo_informations.svg.png" /> Actualmente poseo 3 certificaciones en Salesforce: Associate, Administrator y OmniStudio Developer.
+<img align="center" alt="info" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/2048px-Logo_informations.svg.png" /> Actualmente poseo 4 certificaciones en Salesforce: Associate, Administrator, OmniStudio Developer y Platform Developer I.
 <br />
 (Aunque con vistas a obtener más certificaciones).
 <br />
