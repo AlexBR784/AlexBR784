@@ -12,7 +12,11 @@
 ![AlexBR784's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBR784&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
-![snake gif](https://github.com/AlexBR784/AlexBR784/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
