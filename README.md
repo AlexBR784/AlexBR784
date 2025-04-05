@@ -1,8 +1,8 @@
 <div align="center"> 
-    <img src="logo/logo.png" alt="logo" width="50px" />
+    <img src="logo/logo.png" alt="logo" width="100px" />
     <br />
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9387CC&center=true&vCenter=true&width=435&lines=Alejandro+Bernardo" alt="Typing SVG" /></a>
-</div>
+
 
 ### 🔗Algunos enlaces
 [![Website](https://img.shields.io/badge/AlexBR784-UP-brightgreen)](https://alexbr784.github.io/portfolio/)
@@ -13,6 +13,8 @@
 
 
 ![snake gif](https://github.com/AlexBR784/AlexBR784/blob/output/github-snake-dark.svg)
+
+</div>
 
 ### ❓¿Quién soy?
 Soy un Ingeniero Multimedia graduado en la Universidad de Valencia.
