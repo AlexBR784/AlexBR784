@@ -12,11 +12,7 @@
 ![AlexBR784's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBR784&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
-</picture>
+![snake gif](https://github.com/AlexBR784/AlexBR784/blob/output/github-snake-dark.svg)
 
 </div>
 
